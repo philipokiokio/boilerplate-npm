@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Px_Ire",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
