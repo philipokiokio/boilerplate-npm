@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Px_Ire",
 	"description":"This is Philip using freecodecamp to learn Backend Engineering and becoming a software engineering",
-	"keywords": ["NodeJS","Express","Backend Engineering"],
+	"keywords": ["NodeJS","Express","Backend Engineering","FreeCodeCamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
